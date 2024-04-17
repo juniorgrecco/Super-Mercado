@@ -1,0 +1,33 @@
+/* Estilos para o menu */
+.menu-container {
+    background-color: #faa81c;
+    color: rgb(71, 11, 11);
+    padding: 10px 0;
+    display:flex;
+    align-items:center;
+}
+.menu-container .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-container h1 {
+    margin: 0;
+}
+.menu-container nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.menu-container nav ul li {
+    margin-left: 30px;
+}
+.menu-container nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.menu-container nav ul li a:hover {
+    color: #ddd;
+}
