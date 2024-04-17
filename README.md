@@ -1,1 +1,1 @@
-Meu Primeiro Super mercado sem Framework
+Meu primeiro Super Mercado sem Framework
